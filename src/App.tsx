@@ -10,8 +10,8 @@ const App: React.FC = () => {
     <BrowserRouter>
       <Navbar />
         <Routes>
-          <Route path="/"  element={<TodosPage />} />
-          <Route path="/about" element={<AboutPage />} />
+          <Route path="/typescript_app"  element={<TodosPage />} />
+          <Route path="/typescript_app/about" element={<AboutPage />} />
         </Routes>
       <Footer />
     </BrowserRouter>

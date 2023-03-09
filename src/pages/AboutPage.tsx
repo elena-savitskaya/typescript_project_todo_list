@@ -1,5 +1,5 @@
 import React from 'react'
-import background from "../images/plan.webp"
+import background from "../images/plan.jpg"
 
 export const AboutPage: React.FC = () => {
   return (
